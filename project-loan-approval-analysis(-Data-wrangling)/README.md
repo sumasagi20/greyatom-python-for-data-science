@@ -8,20 +8,20 @@ dataset
 
 The dataset has details of 614 customers with the following 13 features
 
-Feature	Description
-Loan_ID	Unique Loan ID
-Gender	Male/Female
-Married	Applicant Married (Y/N)
-Dependents	Number of dependents
-Education	Graduate/Under Graduate
-Self_Employed	Self employed (Y/N)
-ApplicantIncome	Income of the applicant
-CoapplicantIncome	Income of the co-applicant
-LoanAmount	Loan amount in thousands
-LoanAmountTerm	Term of loan in months
-Credit_History	credit history meets guidelines}
-Property_Area	Urban/Semi-Urban/Rural
-Loan_Status	Loan approved (Y/N)
+Feature	-Description
+1)Loan_ID-	Unique Loan ID
+2)Gender-	Male/Female
+3)Married-	Applicant Married (Y/N)
+4)Dependents-	Number of dependents
+5)Education-	Graduate/Under Graduate
+6)Self_Employed-	Self employed (Y/N)
+7)ApplicantIncome-	Income of the applicant
+8)CoapplicantIncome-	Income of the co-applicant
+9)LoanAmount-	Loan amount in thousands
+10)LoanAmountTerm-	Term of loan in months
+11)Credit_History-	credit history meets guidelines}
+12)Property_Area-	Urban/Semi-Urban/Rural
+13)Loan_Status-	Loan approved (Y/N)
 Our major work for this project involves data analysis using Pandas.
 
 Why solve this project ?
